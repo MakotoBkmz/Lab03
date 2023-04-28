@@ -20,6 +20,7 @@ Result = f'My name is {User_name}, I am {User_age} years old{smile_footprint}'
 '''
 Code cannot be done in cyrillic. (Результат - Result)
 Whole string should not have that much pluses, so use 'f-string' instead
+Also - mismatching ' and "
 '''
 
 print(Result)
