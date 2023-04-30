@@ -1,4 +1,4 @@
-# очікуваний результат у вигляді: My name is David, I am 14 years old👣
+#Expected reuslt should be: My name is David, I am 14 years old👣
 
 # f = '\N{Footprints}'  # not informative naming, the correct code below
 smile_footprint = '\N{Footprints}'
